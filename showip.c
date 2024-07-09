@@ -1,3 +1,5 @@
+//this small program is to be given a hostname as a parameter (for example en.wikipedia.org ) it should return the ipv4 and ipv6 addresses if available.
+
 #include <stdio.h>
 #include <string.h>
 #include <sys/types.h>
